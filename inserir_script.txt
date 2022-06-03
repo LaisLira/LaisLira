@@ -1,0 +1,34 @@
+008134	Idade	C	100
+008135	História de Queda	C	100
+008136	Eliminações (intestinais e urinárias)	C	100
+008137	Medicações	C	100
+008138	Equipamentos	C	100
+008139	Mobilidade 1	C	100
+008140	Mobilidade 2	C	100
+008141	Mobilidade 3	C	100
+008142	Cognitivo 1	C	100
+008143	Cognitivo 2	C	100
+008144	Cognitivo 3	C	100
+008145	Pont.Idade	C	100
+008146	Pont.História de Queda	C	100
+008147	Pont.Eliminações (intestinais e urinárias)	C	100
+008148	Pont.Medicações	C	100
+008149	Pont.Equipamentos	C	100
+008150	Pont.Mobilidade 1	C	100
+008151	Pont.Mobilidade 2	C	100
+008152	Pont.Mobilidade 3	C	100
+008153	Pont.Cognitivo 1	C	100
+008154	Pont.Cognitivo 2	C	100
+008155	Pont.Cognitivo 3	C	100
+008156	Pontuação Número	C	100
+008157	Eixtente sem uso	C	100
+008158	Eixtente sem uso	C	100
+008159	Eixtente sem uso	C	100
+008160	Eixtente sem uso	C	100
+008161	Eixtente sem uso	C	100
+008162	Eixtente sem uso	C	100
+008163	Eixtente sem uso	C	100
+008164	Eixtente sem uso	C	100
+008165	Eixtente sem uso	C	100
+008166	Eixtente sem uso	C	100
+008167	Pontuação  	C	100
