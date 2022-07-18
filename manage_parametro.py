@@ -13,3 +13,4 @@ with open("inserir_script(1).txt", "r") as readFile:
                             "VALUES ('" + linha[0] + "', '" + linha[1] + "', "
                             "'" + linha[2] + "', '" + linha[3] + ", '0', '0', '0', 'Q', 'S', 'N', 'M', 'N', 'N',"
                             "'" + linha[1] + "', 'N', 'N', 'N', '<CLOB>', 'N', 'N'); ")
+# É necessário pesquisa para saber uma maneira do script ignorar o Enter que o excel dá para pular para a próxima linha
